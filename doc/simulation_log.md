@@ -1,4 +1,4 @@
-# Simulation Log 
+#Simulation Log 
 This file lists the changes and the results that have been achieved with this repository.
 
 22nd September:
@@ -6,4 +6,6 @@ This file lists the changes and the results that have been achieved with this re
 - Learning how to use Mathematica notebooks for documentation
 - Writing the micromagnet section of the paper
 
- 
+ 23rd September:
+- Mathematica notebook for micromagnet simulations has been written
+
